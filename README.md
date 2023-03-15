@@ -1,4 +1,4 @@
-# PHP-MYSQL-Shopping-Cart
+# 🛒 PHP MYSQL Shopping Cart
 
 This is a simple PHP shopping cart system that allows users to browse products, add them to cart, and place orders.
 
@@ -24,3 +24,6 @@ Once you have the application up and running, you can browse products by clickin
 - CSS
 - JavaScript
 
+#### Application Look Like
+
+ ![alt text](https://github.com/Deshan555/PHP-MYSQL-Shopping-Cart/blob/master/Screenshot_1.png)
